@@ -1,11 +1,8 @@
-# SAM - Steam Account Manager
+# SAM - Steam Account Manager (NOW WITH ADDED VAC BYPASS SUPPORT!)
 
 *Easily log in and switch between Steam accounts.*
 
-
-![alt tag](https://i.imgur.com/v4eJzzH.png) ![alt tag](https://i.imgur.com/laBORcJ.png)
-
-**Latest Version:** 1.4.2.0 ()
+**Latest Version:** 1.4.2.1-VACBypass
 
 [**DOWNLOAD**](https://github.com/KillaBoi/SAM-VacBypass/releases)
 
